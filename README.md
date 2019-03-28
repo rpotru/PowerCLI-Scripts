@@ -6,3 +6,6 @@ Get-VM | Get-CDDrive | Where {$_.ISOPath -ne $null} | Set-CDDrive -NoMedia -Conf
 
 
 
+
+
+
